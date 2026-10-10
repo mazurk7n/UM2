@@ -1,9 +1,4 @@
 # UM2
 
-A minimal Python project.
+Projekt gry typu roguelike.
 
-## Run
-
-```bash
-python main.py
-```
