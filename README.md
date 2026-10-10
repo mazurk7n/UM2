@@ -1,4 +1,4 @@
 # UM2
 
-Projekt gry typu roguelike.
+Projekt prostej gry typu roguelike w (hopefully) stylu Touhou.
 
